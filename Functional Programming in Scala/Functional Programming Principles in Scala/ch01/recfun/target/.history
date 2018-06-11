@@ -1,0 +1,10 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/Alex/AppData/Local/Temp/sbt-structure1.xml; session clear-all
+all {file:/C:/programming/recfun/}root/products {file:/C:/programming/recfun/}root/test:products
+run
+submit olexandryermilov@gmail.com 8hkvsnENIeDggCa3
+submit olexandr.yermilov@gmail.com 8hkvsnENIeDggCa3
+test
+run
+test
+submit olexandr.yermilov@gmail.com 8hkvsnENIeDggCa3
+submit olexandr.yermilov@gmail.com Sn48Pxr8SlMM7AbK
